@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/christinakaloush.egg-info/PKG-INFO
+src/christinakaloush.egg-info/SOURCES.txt
+src/christinakaloush.egg-info/dependency_links.txt
+src/christinakaloush.egg-info/top_level.txt
+src/example_package/__init__.py
+src/example_package/example.py
